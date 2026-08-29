@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/Mike/AppData/Roaming/.minecraft/versions/create new/saves/Новый мир
+}
+

@@ -1,0 +1,15 @@
+-----------------------------------------------------------------------------------
+DateTime: 29.08.2026 17:41:24:471 +07:00; PID: 13304
+This file contains the stderr stream of the Minecraft process logged to a file.
+It does not include stdout or log (log4j) messages to avoid performance impact.
+-----------------------------------------------------------------------------------
+[17:42:03:889] [STDERR]: Aug 29, 2026 17:42:03 INFO CreateSchematicChecker: [36m[CSC][32mCSC is loading...   Success！[0m
+[17:42:48:203] [STDERR]: Aug 29, 2026 17:42:48 INFO CreateSchematicChecker: [36m[CSC][32m   _____  _____  _____ [0m
+[17:42:48:203] [STDERR]: Aug 29, 2026 17:42:48 INFO CreateSchematicChecker: [36m[CSC][32m  / ____|/ ____|/ ____|[0m
+[17:42:48:203] [STDERR]: Aug 29, 2026 17:42:48 INFO CreateSchematicChecker: [36m[CSC][32m | |    | (___ | |        [CSC] Version: v2.27.42[0m
+[17:42:48:204] [STDERR]: Aug 29, 2026 17:42:48 INFO CreateSchematicChecker: [36m[CSC][32m | |     \___ \| |        Minecraft Version: 1.21.1 neoforge[0m
+[17:42:48:204] [STDERR]: Aug 29, 2026 17:42:48 INFO CreateSchematicChecker: [36m[CSC][32m | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7[0m
+[17:42:48:204] [STDERR]: Aug 29, 2026 17:42:48 INFO CreateSchematicChecker: [36m[CSC][32m  \_____|_____/ \_____|[0m
+[17:42:48:204] [STDERR]: Aug 29, 2026 17:42:48 INFO CreateSchematicChecker: [36m[CSC][32m                       [0m
+[17:43:00:840] [STDERR]: Aug 29, 2026 17:43:00 WARNING org.apache.lucene.ars_nouveau.internal.vectorization.VectorizationProvider: Java vector incubator module is not readable. For optimal vector performance, pass '--add-modules jdk.incubator.vector' to enable Vector API.
+[17:56:55:011] [STDERR]: Aug 29, 2026 17:56:55 INFO CreateSchematicChecker: [36m[CSC][32mCSC close completely, thanks for using![0m

@@ -1,0 +1,19 @@
+{
+	id: "c75ee2a7-ed4d-11f0-8ede-9c6b00470e68"
+	type: "player"
+	player_name: "quon7"
+	ranks: {
+		c75ee2a7-ed4d-11f0-8ede-9c6b00470e68: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "quon7"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59B8FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

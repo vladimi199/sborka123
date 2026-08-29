@@ -1,0 +1,5 @@
+2026-01-25 11:40:06 [ERROR] config\CSC\config.toml (The system cannot find the file specified)
+2026-05-15 18:43:51 [WARN] [CSC] Old config.toml archived to C:\Users\andre\curseforge\minecraft\Instances\All of Create\config\CSC\config_old_2026_05_15_18_43_51.toml because ConfigVersion changed from missing to 1.21.25
+2026-05-31 17:43:06 [WARN] [CSC] Old config.toml archived to C:\Users\andre\curseforge\minecraft\Instances\All of Create\config\CSC\config_old_2026_05_31_17_43_06.toml because ConfigVersion changed from 1.21.25 to 1.21.26
+2026-07-24 10:14:58 [WARN] [CSC] Old config.toml archived to C:\Users\andrew\curseforge\minecraft\Instances\All of Create\config\CSC\config_old_2026_07_24_10_14_58.toml because ConfigVersion changed from 1.21.26 to 1.21.27
+2026-08-09 16:24:27 [WARN] [CSC] Old config.toml archived to C:\Users\andrew\curseforge\minecraft\Instances\All of Create\config\CSC\config_old_2026_08_09_16_24_27.toml because ConfigVersion changed from 1.21.27 to 2.27.42
