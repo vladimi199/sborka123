@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"simulated:altitude_sensor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cinaps_decor:music_disc_ms_12"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
