@@ -1,5 +1,13 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "ars_nouveau:resources/magebloom_crop"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }

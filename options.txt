@@ -12,7 +12,7 @@ darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:false
+fullscreen:true
 gamma:0.5
 graphicsMode:1
 guiScale:3
@@ -75,7 +75,7 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:true
 hideBundleTutorial:false
@@ -177,6 +177,9 @@ key_key.jei.showUses:key.keyboard.u
 key_key.jei.showUses2:key.mouse.right
 key_key.jei.transferRecipeBookmark:key.mouse.left:SHIFT
 key_key.jei.maxTransferRecipeBookmark:key.mouse.left:CONTROL
+key_key.jei.showBookmarkTooltipFeatures:key.keyboard.left.control
+key_key.jei.quickMove:key.mouse.left:SHIFT
+key_key.jei.shareToChat:key.keyboard.unknown
 key_key.jei.clearSearchBar:key.mouse.right
 key_key.jei.previousSearch:key.keyboard.up
 key_key.jei.nextSearch:key.keyboard.down
@@ -192,6 +195,7 @@ key_key.jei.toggleWildcardHideIngredient:key.mouse.right:CONTROL
 key_key.jei.recipeBack:key.keyboard.backspace
 key_key.jei.previousRecipePage:key.keyboard.page.up
 key_key.jei.nextRecipePage:key.keyboard.page.down
+key_key.jei.pauseRecipeCycling:key.keyboard.left.shift
 key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
 key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
 key_key.jei.closeRecipeGui:key.keyboard.escape
@@ -258,6 +262,9 @@ key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_placebo.toggleTrails:key.keyboard.keypad.9
 key_placebo.toggleWings:key.keyboard.keypad.8
+key_simulated.keyinfo.rotate_mode:key.keyboard.tab
+key_simulated.keyinfo.scroll_up:key.keyboard.unknown
+key_simulated.keyinfo.scroll_down:key.keyboard.unknown
 key_key.hypertube.tube_escape:key.keyboard.left.shift
 key_key.backpacked.open_backpack:key.keyboard.b
 key_key.backpacked.open_management:key.keyboard.v
@@ -265,6 +272,9 @@ key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt
 key_key.toastcontrol.clear:key.keyboard.j
 key_key.personality.crawl:key.keyboard.c
 key_key.personality.sit:key.keyboard.z
+key_key.ftbultimine:key.mouse.5
+key_ftbultimine.change_shape.next:key.keyboard.up
+key_ftbultimine.change_shape.prev:key.keyboard.down
 key_key.ftbteams.open_gui:key.keyboard.unknown
 key_key.ftbquests.quests:key.keyboard.unknown
 key_key.ftbquests.gui.zoom_in:key.keyboard.equal
@@ -322,7 +332,16 @@ key_create.keyinfo.ctrl_modifier:key.keyboard.left.control
 key_create.keyinfo.alt_modifier:key.keyboard.left.alt
 key_dndesires.keyinfo.saw_active:key.keyboard.left.alt
 key_dndesires.keyinfo.drill_active:key.keyboard.left.alt
+key_key.aeroworks.joystick.free_camera:key.keyboard.left.shift
+key_key.climbable_ropes.lock_rope_camera:key.keyboard.left.alt
 key_key.pipeorgans.midi_config:key.keyboard.semicolon
+key_key.createthrusters.physics_goggles.toggle_force_gizmo:key.keyboard.g
+key_key.createthrusters.physics_goggles.toggle_diagram:key.keyboard.h
+key_key.createthrusters.physics_goggles.toggle_propulsion:key.keyboard.unknown
+key_key.createthrusters.physics_goggles.diagram_interactive_mode:key.keyboard.j
+key_key.createthrusters.physics_goggles.edit_overlays_mode:key.keyboard.k
+key_key.createthrusters.contraption_network_linker.cycle_scope_mode_modifier:key.keyboard.left.alt
+key_key.aeronautics_curios_compat.remote_use:key.keyboard.y
 key_gui.xaero_pac_key_open_menu:key.keyboard.apostrophe
 key_key.createrailwaysnavigator.route_overlay_options:key.keyboard.r
 soundCategory_master:0.2075055187637969

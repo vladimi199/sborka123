@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create:rose_quartz"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:soap"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:cage"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"quark:iron_pillar"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

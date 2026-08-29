@@ -1,0 +1,141 @@
+---- Minecraft Crash Report ----
+// There are four lights!
+
+Time: 2026-08-29 22:52:48
+Description: Mod loading failures have occurred; consult the issue messages for more details
+
+net.neoforged.neoforge.logging.CrashReportExtender$ModLoadingCrashException: Mod loading has failed
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Mod loading issue --
+Details:
+	Mod file: <No mod information provided>
+	Failure message: File mods\connector-2.0.0-beta.2+1.21.1-full.jar is not a valid mod file
+	Mod version: <No mod information provided>
+	Mod issues URL: <No issues URL found>
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: chunkactivitytracker --
+Details:
+	Mod file: /C:/Users/Mike/AppData/Roaming/.minecraft/versions/create new/mods/chunkactivitytracker-neoforge-1.0.1-1.21.1.jar
+	Failure message: Mod chunkactivitytracker requires txnilib any
+		Currently, txnilib is not installed
+		
+	Mod version: 1.0.1
+	Mod issues URL: https://github.com/txnimc/ChunkActivityTracker/issues
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: despawntweaks --
+Details:
+	Mod file: /C:/Users/Mike/AppData/Roaming/.minecraft/versions/create new/mods/despawntweaks-neoforge-1.0.0-1.21.1.jar
+	Failure message: Mod despawntweaks requires txnilib any
+		Currently, txnilib is not installed
+		
+	Mod version: 1.0.0
+	Mod issues URL: https://github.com/txnimc/DespawnTweaks/issues
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: does_it_tick --
+Details:
+	Mod file: /C:/Users/Mike/AppData/Roaming/.minecraft/versions/create new/mods/does_it_tick-neoforge-1.1.4-1.21.1.jar
+	Failure message: Mod does_it_tick requires txnilib any
+		Currently, txnilib is not installed
+		
+	Mod version: 1.1.4
+	Mod issues URL: https://github.com/txnimc/DoesItTick/issues
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: redirected --
+Details:
+	Mod file: /C:/Users/Mike/AppData/Roaming/.minecraft/versions/create new/mods/redirected-neoforge-1.0.0-1.21.1.jar
+	Failure message: Mod redirected requires txnilib any
+		Currently, txnilib is not installed
+		
+	Mod version: 1.0.0
+	Mod issues URL: https://github.com/txnimc/Redirected/issues
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: continuity --
+Details:
+	Mod file: /C:/Users/Mike/AppData/Roaming/.minecraft/versions/create new/mods/continuity-3.0.0+1.21.neoforge.jar
+	Failure message: Mod continuity requires fabric_api any
+		Currently, fabric_api is not installed
+		
+	Mod version: 3.0.0+1.21.neoforge
+	Mod issues URL: https://github.com/PepperCode1/Continuity/issues
+	Exception message: <No associated exception found>
+
+-- Mod loading issue --
+Details:
+	Mod file: <No mod information provided>
+	Failure message: Some of your mods are incompatible with the game or each other!
+		A potential solution has been determined, this may resolve your problem:
+		   - Install fabric-api, version 0.100.1 or later.
+		More details:
+		   - mod Continuity (continuity) 3.0.0+1.21.neoforge requires version 0.100.1 or later of fabric-api, which is missing!
+	Mod version: <No mod information provided>
+	Mod issues URL: <No issues URL found>
+	Exception message: <No associated exception found>
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.1
+	Minecraft Version ID: 1.21.1
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 21.0.7, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+	Memory: 461921048 bytes (440 MiB) / 1140850688 bytes (1088 MiB) up to 11442061312 bytes (10912 MiB)
+	CPUs: 12
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+	Identifier: Intel64 Family 6 Model 165 Stepping 5
+	Microarchitecture: Comet Lake
+	Frequency (GHz): 2.90
+	Number of physical packages: 1
+	Number of physical CPUs: 6
+	Number of logical CPUs: 12
+	Graphics card #0 name: NVIDIA GeForce GTX 1660 SUPER
+	Graphics card #0 vendor: NVIDIA
+	Graphics card #0 VRAM (MiB): 6144.00
+	Graphics card #0 deviceId: VideoController1
+	Graphics card #0 versionInfo: 32.0.16.1062
+	Memory slot #0 capacity (MiB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 2.67
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MiB): 8192.00
+	Memory slot #1 clockSpeed (GHz): 2.67
+	Memory slot #1 type: DDR4
+	Virtual memory max (MiB): 36802.02
+	Virtual memory used (MiB): 15461.06
+	Swap memory total (MiB): 20480.00
+	Swap memory used (MiB): 407.67
+	Space in storage for jna.tmpdir (MiB): available: 94506.47, total: 243199.00
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): available: 94506.47, total: 243199.00
+	Space in storage for io.netty.native.workdir (MiB): available: 94506.41, total: 243199.00
+	Space in storage for java.io.tmpdir (MiB): available: 94506.41, total: 243199.00
+	Space in storage for workdir (MiB): available: 94506.41, total: 243199.00
+	JVM Flags: 9 total; -Xmx10881M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M
+	ModLauncher: 11.0.5+main.901c6ea8
+	ModLauncher launch target: forgeclient
+	ModLauncher services: 
+		sponge-mixin-0.15.2+mixin.0.8.7.jar mixin PLUGINSERVICE 
+		loader-4.0.43.jar slf4jfixer PLUGINSERVICE 
+		loader-4.0.43.jar runtime_enum_extender PLUGINSERVICE 
+		at-modlauncher-10.0.1.jar accesstransformer PLUGINSERVICE 
+		loader-4.0.43.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-11.0.5.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-11.0.5.jar fml TRANSFORMATIONSERVICE 
+		modlauncher-11.0.5.jar crash_assistant TRANSFORMATIONSERVICE 
+		modlauncher-11.0.5.jar connector_loader TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		kotlinforforge@5.12.0
+		Configured Defaults@21.1.3
+		javafml@4.0
+		lowcodefml@4.0
+		minecraft@4.0
+	Mod List: 
+		client-1.21.1-20240808.144430-srg.jar             |Minecraft                     |minecraft                     |1.21.1              |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		neoforge-21.1.248-universal.jar                   |NeoForge                      |neoforge                      |21.1.248            |Manifest: NOSIGNATURE
